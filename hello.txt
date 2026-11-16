@@ -1,0 +1,2 @@
+Hi I’m Affan Mustafa a Software Engineering student and Full-Stack Developer.
+I build web and business applications using React Next.js Node.js and PostgreSQL.
