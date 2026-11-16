@@ -1,1 +1,15 @@
-# SCD-Lab-Assignment
+# SCD Lab Assignment 2
+
+**Student Name:** Affan Mustafa  
+**Roll Number:** 24-arid-4894  
+**Course:** Software Construction and Development
+
+## Repository Description
+
+This repository contains my Git and GitHub lab work. I practiced cloning a repository, committing and pushing changes, and merging the `feature-update` branch into `main` through a pull request.
+
+## Files Included
+
+- `README.md` — Assignment and repository details.
+- `hello.txt` — My short introduction.
+- `about.txt` — A short note about my skills and interests.
